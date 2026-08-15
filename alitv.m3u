@@ -75,8 +75,12 @@ https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/p
 https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",İmam Hüseyn TV
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
-
-
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",M Embed
+https://www.youtube.com/embed/6k_R8gtVD3M?si=VpP4h328MRTqV8_M
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",M normal
+https://youtu.be/6k_R8gtVD3M?si=VpP4h328MRTqV8_M
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",KV PLaylist
+https://www.youtube.com/embed/videoseries?si=CK7rMe82SZymGe3d&amp;list=PLOFoevjhe1HW0PpGrJPoW5mt2NtrJXjmk
 
 
                                                                                        TÜRK KANALLARI
@@ -485,8 +489,6 @@ https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 https://www.youtube.com/embed/live_stream?channel=UCVoFTNOT4gHH-ULLB4uPmOA
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",A vision supreme 7/24
 https://www.youtube.com/live/bFq65Rb82J8?si=YNoKzf846beBa1zp
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Jeff Sarita 7/24
-https://www.youtube.com/live/_urXkcTLU9U?si=6XW_5odTzLeUdfBz
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",305 Miami Visuals 7/24
 https://www.youtube.com/live/ZG4VRZjbvHo?si=PSdHKCG6l53Kdnl8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Momenta Tempus 7/24
