@@ -219,8 +219,6 @@ https://www.youtube.com/embed/live_stream?channel=UCkQV7uH1Otv47CZz6tD3jGQ
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Diyanet TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist_b200000.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",fortuna TV
-https://edge2.taksimbilisim.com/ftvturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ezel 7/24
@@ -458,7 +456,7 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kanal 34 TV
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Champaign Government Television TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Champaign Television TV
 https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cine Sony TV
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -482,8 +480,6 @@ https://fighthls.persiana.live/hls/stream.m3u8
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Yoqa 7/24
 https://www.youtube.com/embed/live_stream?channel=UCVoFTNOT4gHH-ULLB4uPmOA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",A vision supreme 7/24
-https://www.youtube.com/live/bFq65Rb82J8?si=YNoKzf846beBa1zp
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",305 Miami Visuals 7/24
 https://www.youtube.com/live/ZG4VRZjbvHo?si=PSdHKCG6l53Kdnl8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Momenta Tempus 7/24
