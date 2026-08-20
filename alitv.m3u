@@ -72,6 +72,8 @@ https://arazhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",İtb TV
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Könül TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Qarabağ FK TV
+https://www.youtube.com/embed/live_stream?channel=UCOZwPOyg4X4-6dXquPvCG-g
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Caspian Pulse 7/24
 https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
@@ -294,7 +296,7 @@ https://www.youtube.com/embed/live_stream?channel=UCUNWa7KzyrQWGUZoSMRU9jw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kırgın Çiçekler 7/24
 https://www.youtube.com/embed/live_stream?channel=UChLT3cdF4lqEzAzaixUaiOw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Çocuklar Duymasın 7/24
-https://www.youtube.com/embed/live_stream?channel=UCT-UCtjNs0q_cz-RdHy-HW2q8Cw
+https://www.youtube.com/embed/live_stream?channel=UCtjNs0q_cz-RdHy-HW2q8Cw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Son Yaz 7/24
 https://www.youtube.com/embed/live_stream?channel=UCzYNcw7NI3KA2bimswFRY8g
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Çukur 7/24
