@@ -27,6 +27,10 @@ https://stream.dunyatv.az/live/dunyatv.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="Canlı Tvlər və YouTube", Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb 24
+http://erlyvideo.izone.az:80/arb24/mono.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb Günəş
+http://erlyvideo.izone.az:80/arbgunesh/mono.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="Canlı Tvlər və YouTube", El TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-name="KANALSTV.az" group-title="Canlı Tvlər və YouTube", Kanal-S TV
