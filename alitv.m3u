@@ -92,7 +92,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tmb Türk TV
 https://str.yodacdn.net/tmbtr/video.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Canlı Tvlər və YouTube", ATV 
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+https://www.youtube.com/embed/live_stream?channel=UCUVZ7T_kwkxDOGFcDlFI-hg
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Canlı Tvlər və YouTube", Star TV 
 https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Canlı Tvlər və YouTube", Show TV
@@ -227,7 +227,7 @@ https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Diyanet TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist_b200000.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
+https://www.youtube.com/embed/live_stream?channel=UCy4NY-cswicIclx2XKqe5Kg
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ezel 7/24
 https://www.youtube.com/embed/live_stream?channel=UC82UK_P4DuDZ42Q0SHcey1w
 #EXTINF:-1 tvg-name="Yayım 1" group-title="Canlı Tvlər və YouTube", Kurtlar Vadisi Pusu 7/24
@@ -242,7 +242,7 @@ https://www.youtube.com/embed/live_stream?channel=UCeLBNGSG9w5qEbzQqZjqjuw
 https://www.youtube.com/embed/live_stream?channel=UCSifzNCnyapTKmQPYs-SZvA
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Film Kuşağı 7/24
 https://www.youtube.com/embed/live_stream?channel=UCcpY8WNM1xHPb8t2rjjZmwg
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Aşk-ı Memnu 7/24
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Aşkı Memnu 7/24
 https://www.youtube.com/embed/live_stream?channel=UCIdiuKAg5xVZsvXDQbOG4cg
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Dini Türk 7/24
 https://www.youtube.com/embed/live_stream?channel=UCRbQ4uJL8g4qRuuVrfuc-uA
@@ -327,8 +327,11 @@ https://www.youtube.com/watch?v=FsRq_t322-g
 
 
 
+
                                                                                       XARİCİ KANALLAR
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Mekke TV
+https://www.youtube.com/embed/live_stream?channel=UCfBw_uwZb_oFLyVsjWk6owQ
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Canlı Tvlər və YouTube",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tom and Jerry 
@@ -443,8 +446,6 @@ http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="Bolt.ru@SD" group-title="Canlı Tvlər və YouTube",Bolt TV
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTINF:-1 tvg-id="OceanTV.ru@SD" group-title="Canlı Tvlər və YouTube",Okean TV
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Canlı Tvlər və YouTube",Star Cinema TV
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="KarapuzTV.ru@SD" group-title="Canlı Tvlər və YouTube",Karapuz TV
