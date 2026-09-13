@@ -390,8 +390,6 @@ https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Canlı Tvlər və YouTube",Аris-24 TV
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" group-title="Canlı Tvlər və YouTube",Quberniya TV
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="Canlı Tvlər və YouTube",Yevraviziya TV
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Canlı Tvlər və YouTube",Yenisey TV
@@ -471,8 +469,6 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Biz Music TV
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Br TV
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Champaign Television TV
 https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cine Sony TV
