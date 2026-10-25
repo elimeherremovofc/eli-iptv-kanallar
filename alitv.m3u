@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Canlı Tvlər və YouTube", İctimai
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Canlı Tvlər və YouTube", Arb
-
+http://erlyvideo.izone.az:80/arb/mono.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Xəzər TV 
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Atv 
@@ -14,9 +14,9 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Canlı Tvlər və YouTube", Cbc Sport TV
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="SPACETV.az" group-title="Canlı Tvlər və YouTube", Space TV
-
+http://erlyvideo.izone.az:80/spacetv/mono.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Mədəniyyət TV
-
+http://erlyvideo.izone.az:80/medeniyyet/mono.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", İdman TV 
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Real TV
@@ -38,6 +38,10 @@ http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 12 TV
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-name="VIPTV.az" group-title="Canlı Tvlər və YouTube", Vip TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb 24
+http://erlyvideo.izone.az:80/arb24/mono.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb Günəş 
+http://erlyvideo.izone.az:80/arbgunesh/mono.m3u8
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Naxçıvan TV
 
@@ -79,20 +83,26 @@ https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Elgiz TV
 https://www.youtube.com/embed/live_stream?channel=UCfefDVHzb3iXEADNdrW-e3A
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Now-music
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Now Music
 https://v2.catcast.tv/content/48694/index.m3u8?token=fecd2053ee946bb214ab66f1840e11ca
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Komedia Tv
 https://v2.catcast.tv/content/50370/index.m3u8?token=74291df502ae983f6b3fdae77f9ab8b5
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cinema AzTv
 https://v2.catcast.tv/content/50372/index.m3u8?token=9d71a4d2355a229c4d0fcad5d62d5ec7
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Film Azerbaycan Tv
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Azərbaycan Filmləri Tv
 https://v2.catcast.tv/content/50472/index.m3u8?token=baa08a4fabe7fa8f8aab4b2c326d7083
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Az Retro Filmlər
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Retro Filmlər Azərbaycan
 https://v2.catcast.tv/content/50852/index.m3u8?token=309ce8eacb63b0801c12eb5459f03940
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hind Filmləri Az 1
 https://v2.catcast.tv/content/50895/index.m3u8?token=350398affde47001759d68975ce10f4f
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hind Filmləri Premium
 https://v2.catcast.tv/content/50961/index.m3u8?token=dce64d7cb6a8837ce5b21a3c516e53b2
+
+
+
+
+
+
 
 
 
