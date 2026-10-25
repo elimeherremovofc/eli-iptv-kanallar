@@ -70,9 +70,9 @@ https://arazhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",İtb TV
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Könül TV
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Qarabağ FK TV
-https://www.youtube.com/embed/live_stream?channel=UCOZwPOyg4X4-6dXquPvCG-g
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Diginet Cinema AzTv
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Caspian Pulse 7/24
 https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",İmam Hüseyn TV
