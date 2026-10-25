@@ -96,7 +96,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Show Max TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Canlı Tvlər və YouTube", Kanal D 
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="NOWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NOW_logo_%28Turkey%29.svg/512px-NOW_logo_%28Turkey%29.svg.png" group-title="Canlı Tvlər və YouTube", Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Canlı Tvlər və YouTube", Kanal 7 
@@ -226,6 +226,43 @@ https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist_b200000.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Semerkand TV
 https://www.youtube.com/embed/live_stream?channel=UCy4NY-cswicIclx2XKqe5Kg
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Şaban Tv
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cine 1 Tv
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Beğen Tv
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kanal 65
+https://v2.catcast.tv/content/47437/index.m3u8?token=4d16871a152b91a3a272e7d7e9f1da68
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Now-music
+https://v2.catcast.tv/content/48694/index.m3u8?token=fecd2053ee946bb214ab66f1840e11ca
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Rihatmusic
+https://v2.catcast.tv/content/48076/index.m3u8?token=3ee33d984865033d11e4d2e73463c442
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tvurkuzplay1
+https://v2.catcast.tv/content/48591/index.m3u8?token=4610337b38d63495fcaebb4068f9bccf
+
+
+
+#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
+https://v2.catcast.tv/content/50370/index.m3u8?token=74291df502ae983f6b3fdae77f9ab8b5
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
+https://v2.catcast.tv/content/50372/index.m3u8?token=9d71a4d2355a229c4d0fcad5d62d5ec7
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
+https://v2.catcast.tv/content/50472/index.m3u8?token=baa08a4fabe7fa8f8aab4b2c326d7083
+#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
+https://v2.catcast.tv/content/50852/index.m3u8?token=309ce8eacb63b0801c12eb5459f03940
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
+https://v2.catcast.tv/content/50892/index.m3u8?token=ed970e17355b52bd98c45945d8096f54
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
+https://v2.catcast.tv/content/50895/index.m3u8?token=350398affde47001759d68975ce10f4f
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
+https://v2.catcast.tv/content/50961/index.m3u8?token=dce64d7cb6a8837ce5b21a3c516e53b2
+
+
+
+
+
+
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ezel 7/24
 https://www.youtube.com/embed/live_stream?channel=UC82UK_P4DuDZ42Q0SHcey1w
 #EXTINF:-1 tvg-name="Yayım 1" group-title="Canlı Tvlər və YouTube", Kurtlar Vadisi Pusu 7/24
