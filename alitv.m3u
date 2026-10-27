@@ -8,7 +8,7 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Canlı Tvlər və YouTube", Arb
 http://erlyvideo.izone.az/arb/mono.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Xəzər TV 
-
+https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiODUuMTMyLjEyNy42OCIsInVhaCI6ImE2NTQwMWNlMTAxNDRmYTAiLCJpYXQiOjE3OTMxMDIzODcsImV4cCI6MTc5MzEwNDE4NywianRpIjoiNjU4MDgyMWQyNDJmYWQ2NSJ9.kJZY6Y6nWacJTi2nV34Zu6vlbrrSsJX6jV_mmmBNPt0
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Atv 
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Canlı Tvlər və YouTube", Cbc Sport TV
