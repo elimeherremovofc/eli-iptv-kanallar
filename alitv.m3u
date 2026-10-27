@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OTT-Play/1.1.24"
 #EXTINF:-1 tvg-id="AzTV" group-title="Canlı Tvlər və YouTube", AzTV
-https://str.yodacdn.net/azertv/tracks-v3a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiYXp0diIsImlwIjoiODUuMTMyLjEyNy42OCIsInVhaCI6ImE2NTQwMWNlMTAxNDRmYTAiLCJpYXQiOjE3OTMxMDEzMjYsImV4cCI6MTc5MzE4NzcyNiwianRpIjoiNzRmOTE2MGM4MTczNmE2MiJ9.FdfmSGRZC41yEuekrGDWeZIdNV20F0o7-tP6v93GQWM
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Canlı Tvlər və YouTube", İctimai
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Canlı Tvlər və YouTube", Arb
