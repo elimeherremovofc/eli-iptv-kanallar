@@ -83,57 +83,6 @@ https://www.youtube.com/embed/live_stream?channel=UCfefDVHzb3iXEADNdrW-e3A
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fotball Liqa Tv
 https://www.youtube.com/embed/live_stream?channel=UC3fevHX27306QOtD8FcLhYg
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Behzat Ç 7/24
-https://www.youtube.com/embed/live_stream?channel=UCH3WnhFSx9r850HJRRs16lQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Eşref Rüya 7/24
-https://www.youtube.com/embed/live_stream?channel=UCFQ6ddDglWtXpPK3Qmn3k1w
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Söz 7/24
-https://www.youtube.com/embed/live_stream?channel=UCJkBcPylctTT0_jVC5XMFIg
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Gelsin hayat bildiği gibi 7/24
-https://www.youtube.com/embed/live_stream?channel=UCKN4Ol9PRaAnKHfvTORjfAQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Yasak Elma 7/24
-https://www.youtube.com/embed/live_stream?channel=UC5TccbGxEeVMx9gL6wp9fOg
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Medcezir 7/24
-https://www.youtube.com/embed/live_stream?channel=UCN0lBmyyylw4D4Lmf2ymuJw
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Canım Annem 7/24
-https://www.youtube.com/embed/live_stream?channel=UCQ2_iKgBBZMq9FWyAasmJQA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Gaddar 7/24
-https://www.youtube.com/embed/live_stream?channel=UCObp-tfHXie6l1H0UIL3JVQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kızıl Goncalar 7/24
-https://www.youtube.com/embed/live_stream?channel=UCvMf-BavX_3YjG-JPrpPqLw
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hercai 7/24
-https://www.youtube.com/embed/live_stream?channel=UC2l92bN_FWHjZZPdOYnZveg
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ben Leman 7/24
-https://www.youtube.com/embed/live_stream?channel=UCVvHHe5lnMSwqaAUvChndsA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Altı üstü İstanbul 7/24
-https://www.youtube.com/embed/live_stream?channel=UCpMth28h0W_ycDlZ5KxABDw
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kiralık aşk 7/24
-https://www.youtube.com/embed/live_stream?channel=UCNIr3_nBs6ba2BS5076rSaQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Trt Çocuk YouTube 7/24
-https://www.youtube.com/embed/live_stream?channel=UCrFf5dtMe6M1XJHqbKJ4X6Q
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Super Toons 7/24
-https://www.youtube.com/embed/live_stream?channel=UCm--Y_S6mPZZ5wLbUQ8eATA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Winx Club 7/24
-https://www.youtube.com/embed/live_stream?channel=UCRNLjEyCK0xwC8DM6TqJqGA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hz.Yusuf 7/24
-https://www.youtube.com/embed/live_stream?channel=UCOpKuda5Ld_oc0Gdr31knmA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",İstanbul Muhafızları 7/24
-https://www.youtube.com/embed/live_stream?channel=UCGtZEUJXdNbMqzan_VbA_3w
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Şirinler 7/24
-https://www.youtube.com/embed/live_stream?channel=UCOTtx7aofPmgcwMp8cLQKHw
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -189,6 +138,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="Canlı Tvlər və YouTube", Trt Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Trt Çocuk YouTube 7/24
+https://www.youtube.com/embed/live_stream?channel=UCrFf5dtMe6M1XJHqbKJ4X6Q
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Diyanet Çocuk TV
 https://www.youtube.com/embed/live_stream?channel=UCCfTktnzWK__FUN4gj0zIpA
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="Canlı Tvlər və YouTube", Trt Çocuk Diyanet 
@@ -362,6 +313,38 @@ https://www.youtube.com/embed/live_stream?channel=UCJbc3MgMFKqsCwTdrjWvVzQ
 https://www.youtube.com/embed/live_stream?channel=UCZLOnq-F5zhTWNUDjcEYByw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Neşeli Dünyam 7/24
 https://www.youtube.com/embed/live_stream?channel=UC7IVTywZ2JJ87nLaYmFT9iQ
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hz.Yusuf 7/24
+https://www.youtube.com/embed/live_stream?channel=UCOpKuda5Ld_oc0Gdr31knmA
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Behzat Ç 7/24
+https://www.youtube.com/embed/live_stream?channel=UCH3WnhFSx9r850HJRRs16lQ
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Eşref Rüya 7/24
+https://www.youtube.com/embed/live_stream?channel=UCFQ6ddDglWtXpPK3Qmn3k1w
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Söz 7/24
+https://www.youtube.com/embed/live_stream?channel=UCJkBcPylctTT0_jVC5XMFIg
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Gelsin hayat bildiği gibi 7/24
+https://www.youtube.com/embed/live_stream?channel=UCKN4Ol9PRaAnKHfvTORjfAQ
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Medcezir 7/24
+https://www.youtube.com/embed/live_stream?channel=UCN0lBmyyylw4D4Lmf2ymuJw
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Canım Annem 7/24
+https://www.youtube.com/embed/live_stream?channel=UCQ2_iKgBBZMq9FWyAasmJQA
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Gaddar 7/24
+https://www.youtube.com/embed/live_stream?channel=UCObp-tfHXie6l1H0UIL3JVQ
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kızıl Goncalar 7/24
+https://www.youtube.com/embed/live_stream?channel=UCvMf-BavX_3YjG-JPrpPqLw
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hercai 7/24
+https://www.youtube.com/embed/live_stream?channel=UC2l92bN_FWHjZZPdOYnZveg
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ben Leman 7/24
+https://www.youtube.com/embed/live_stream?channel=UCVvHHe5lnMSwqaAUvChndsA
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Altı üstü İstanbul 7/24
+https://www.youtube.com/embed/live_stream?channel=UCpMth28h0W_ycDlZ5KxABDw
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kiralık aşk 7/24
+https://www.youtube.com/embed/live_stream?channel=UCNIr3_nBs6ba2BS5076rSaQ
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Winx Club 7/24
+https://www.youtube.com/embed/live_stream?channel=UCRNLjEyCK0xwC8DM6TqJqGA
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",İstanbul Muhafızları 7/24
+https://www.youtube.com/embed/live_stream?channel=UCGtZEUJXdNbMqzan_VbA_3w
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Şirinler 7/24
+https://www.youtube.com/embed/live_stream?channel=UCOTtx7aofPmgcwMp8cLQKHw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Transformers Türkiye 7/24
 https://www.youtube.com/live/1xZAbVY0Dv0
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Dünya Turu 7/24
