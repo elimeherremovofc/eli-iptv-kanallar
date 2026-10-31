@@ -84,8 +84,23 @@ https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Elgiz TV
 https://www.youtube.com/embed/live_stream?channel=UCfefDVHzb3iXEADNdrW-e3A
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fotball Liqa Tv
-https://www.youtube.com/embed/live_stream?channel=UC3fevHX27306QOtD8FcLhYg
+
+
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" tvg-chno="15" tvg-country="TR" group-title="Canlı Tvlər və YouTube",TRT EBA 
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Pijamaskeliler 7/24
+https://www.youtube.com/embed/live_stream?channel=27-zuSttD6y5ODB7RJRdQ
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Dj Romex Tv
+https://www.youtube.com/embed/live_stream?channel=UCJpwai-h1JtA1Z-Zmn9qVsA
+
+
+
+
+
+
+
 
 
 
@@ -105,7 +120,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Show Max TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Canlı Tvlər və YouTube", Kanal D 
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="NOWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NOW_logo_%28Turkey%29.svg/512px-NOW_logo_%28Turkey%29.svg.png" group-title="Canlı Tvlər və YouTube", Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Canlı Tvlər və YouTube", Kanal 7 
@@ -241,7 +256,7 @@ https://www.youtube.com/embed/live_stream?channel=UCEwIUtFBhaI2L2PuKv0KL2g
 https://www.youtube.com/embed/live_stream?channel=UCUALYmnkEmx8vlxIbpr2gmw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Edho 7/24
 https://www.youtube.com/embed/live_stream?channel=UCeLBNGSG9w5qEbzQqZjqjuw
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",A.B.İ 7/24
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Abi 7/24
 https://www.youtube.com/embed/live_stream?channel=UCSifzNCnyapTKmQPYs-SZvA
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Film Kuşağı 7/24
 https://www.youtube.com/embed/live_stream?channel=UCcpY8WNM1xHPb8t2rjjZmwg
@@ -486,8 +501,6 @@ https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Barbie & Friends Mutfilm TV
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Biz Music TV
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cine Sony TV
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ds TV
@@ -506,8 +519,6 @@ https://fighthls.persiana.live/hls/stream.m3u8
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Yoqa 7/24
-https://www.youtube.com/embed/live_stream?channel=UCVoFTNOT4gHH-ULLB4uPmOA
 
 
                                                                  Eli Meherremov Musiqiləri
