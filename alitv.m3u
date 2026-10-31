@@ -84,24 +84,8 @@ https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Elgiz TV
 https://www.youtube.com/embed/live_stream?channel=UCfefDVHzb3iXEADNdrW-e3A
-
-
-#EXTINF:-1 tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" tvg-chno="15" tvg-country="TR" group-title="Canlı Tvlər və YouTube",TRT EBA 
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tele 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Pijamaskeliler 7/24
-https://www.youtube.com/embed/live_stream?channel=27-zuSttD6y5ODB7RJRdQ
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Dj Romex Tv
 https://www.youtube.com/embed/live_stream?channel=UCJpwai-h1JtA1Z-Zmn9qVsA
-
-
-
-
-
-
-
-
 
 
 
@@ -120,7 +104,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Show Max TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Canlı Tvlər və YouTube", Kanal D 
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8vpq8vyl0spa&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="NOWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NOW_logo_%28Turkey%29.svg/512px-NOW_logo_%28Turkey%29.svg.png" group-title="Canlı Tvlər və YouTube", Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Canlı Tvlər və YouTube", Kanal 7 
