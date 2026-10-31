@@ -17,6 +17,8 @@ https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 https://operativmm.az/tvs/space/stream8/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", İdman TV 
 https://operativmm.az/tvs/idman/stream4/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Mədəniyyət TV
+https://yodaplayer.yodacdn.net/medeniyyet/index.php
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Real TV
 https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 #EXTINF:-1 tvg-name="DUNYATV.az" group-title="Canlı Tvlər və YouTube", Dünya TV
@@ -36,12 +38,14 @@ http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 12 TV
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-name="VIPTV.az" group-title="Canlı Tvlər və YouTube", Vip TV
+
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb 24
 https://operativmm.az/tvs/arb24/stream/stream.m3u8
+
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb Günəş 
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Naxçıvan TV
-
+https://yodaplayer.yodacdn.net/ntv/index.php
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Biznes TV
 https://www.youtube.com/embed/live_stream?channel=UCWSj5oxUTsPegZ7Pd36_cQg
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 35 TV
