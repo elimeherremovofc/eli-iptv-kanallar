@@ -89,24 +89,6 @@ https://www.youtube.com/embed/live_stream?channel=UCJpwai-h1JtA1Z-Zmn9qVsA
 
 
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Trt Genç Tv
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Deniz Sinema
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",CNBC-E
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ülke TV
-https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",TGRT HABER
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kanal D 2
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Meclis Tv
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-
-
 
 
                                                                                        TÜRK KANALLARI
@@ -124,7 +106,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Show Max TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Canlı Tvlər və YouTube", Kanal D 
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8vpq8vyl0spa&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="NOWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NOW_logo_%28Turkey%29.svg/512px-NOW_logo_%28Turkey%29.svg.png" group-title="Canlı Tvlər və YouTube", Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Canlı Tvlər və YouTube", Kanal 7 
@@ -245,11 +227,22 @@ https://www.youtube.com/embed/live_stream?channel=UCkQV7uH1Otv47CZz6tD3jGQ
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Serçem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Semerkand TV
-https://www.youtube.com/embed/live_stream?channel=UCy4NY-cswicIclx2XKqe5Kg
+
+
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Şaban Tv
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Beğen Tv
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Trt Genç Tv
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Deniz Sinema
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ezel 7/24
 https://www.youtube.com/embed/live_stream?channel=UC82UK_P4DuDZ42Q0SHcey1w
 #EXTINF:-1 tvg-name="Yayım 1" group-title="Canlı Tvlər və YouTube", Kurtlar Vadisi Pusu 7/24
@@ -523,6 +516,10 @@ https://fighthls.persiana.live/hls/stream.m3u8
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
+
 
 
                                                                  Eli Meherremov Musiqiləri
