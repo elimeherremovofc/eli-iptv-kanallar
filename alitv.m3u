@@ -1,87 +1,85 @@
                                                                                          AZERBAYCAN TV 
 #EXTM3U
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OTT-Play/1.1.24"
-#EXTINF:-1 tvg-id="AzTV" group-title="Canlı Tvlər və YouTube", AzTV
+#EXTINF:-1 tvg-id="AzTV" group-title="Canlı Tvlər və YouTube", AzTv
 https://operativmm.az/tvs/az/stream9/stream.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Canlı Tvlər və YouTube", İctimai
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Canlı Tvlər və YouTube", Arb
 https://operativmm.az/tvs/arb/stream5/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Xəzər TV 
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Xəzər Tv 
 https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Atv 
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Azad Azərbaycan Tv
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Canlı Tvlər və YouTube", Cbc Sport TV
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Canlı Tvlər və YouTube", Cbc Sport Tv
 https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="Canlı Tvlər və YouTube", Space TV
+#EXTINF:-1 tvg-name="SPACETV.az" group-title="Canlı Tvlər və YouTube", Space Tv
 https://operativmm.az/tvs/space/stream8/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", İdman TV 
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", İdman Tv 
 https://operativmm.az/tvs/idman/stream4/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Mədəniyyət TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Mədəniyyət Tv
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Real TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Real Tv
 https://operativmm.az/tvs/realtv/stream2/stream.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="Canlı Tvlər və YouTube", Dünya TV
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="Canlı Tvlər və YouTube", Dünya Tv
 https://stream.dunyatv.az/live/dunyatv.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Baku TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Baku Tv
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-name="AzstarTV.az" group-title="Canlı Tvlər və YouTube", Azstar TV
+#EXTINF:-1 tvg-name="AzstarTV.az" group-title="Canlı Tvlər və YouTube", Az-star Tv
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-name="ELTV.az" group-title="Canlı Tvlər və YouTube", El TV
+#EXTINF:-1 tvg-name="ELTV.az" group-title="Canlı Tvlər və YouTube", El Tv
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANALSTV.az" group-title="Canlı Tvlər və YouTube", Kanal-S TV
+#EXTINF:-1 tvg-name="KANALSTV.az" group-title="Canlı Tvlər və YouTube", Kanal-S Tv
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Canlı Tvlər və YouTube", Kəpəz TV
+#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Canlı Tvlər və YouTube", Kəpəz Tv
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Apa TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Apa Tv
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 12 TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 12 Tv
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1 tvg-name="VIPTV.az" group-title="Canlı Tvlər və YouTube", Vip TV
+#EXTINF:-1 tvg-name="VIPTV.az" group-title="Canlı Tvlər və YouTube", Vip Tv
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb 24
 https://operativmm.az/tvs/arb24/stream/stream.m3u8
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Arb Günəş 
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Naxçıvan TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Naxçıvan Tv
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Biznes TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Biznes Tv
 https://www.youtube.com/embed/live_stream?channel=UCWSj5oxUTsPegZ7Pd36_cQg
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 35 TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal 35 Tv
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Qafqaz TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Qafqaz Tv
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Vilayət TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Vilayət Tv
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",F TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",F Tv
 https://stream.ftv.az/live/ftv.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ayaz TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ayaz Tv
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/360p/360p.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Günaz TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Günaz Tv
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kn Music TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",KN Music Tv
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Show Plus TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Show Plus Tv
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hadi-3 TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hadi-3 Tv
 https://newyork.zeuscdn724.com/H3/index.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",R TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",R Tv
 https://www.youtube.com/embed/live_stream?channel=UCXaVA4tG5oabZkgl8e80oOw
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tmb Azərbaycan TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tmb Azərbaycan Tv
 
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Araz News TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Araz News Tv
 https://arazhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",İtb TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",İtb Tv
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Könül TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Könül Tv
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Diginet Cinema AzTv
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Caspian Pulse 7/24
 https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",İmam Hüseyn TV
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Elgiz TV
 https://www.youtube.com/embed/live_stream?channel=UCfefDVHzb3iXEADNdrW-e3A
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Dj Romex Tv
@@ -93,21 +91,23 @@ https://www.youtube.com/embed/live_stream?channel=UCJpwai-h1JtA1Z-Zmn9qVsA
 
                                                                                        TÜRK KANALLARI
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", A2 TV
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Canlı Tvlər və YouTube", Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", A2 Tv
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",İmam Hüseyn Tv
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tmb Türk TV
 
-#EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Canlı Tvlər və YouTube", ATV 
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Canlı Tvlər və YouTube", Star TV 
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Canlı Tvlər və YouTube", Star Tv
 https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
-#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Canlı Tvlər və YouTube", Show TV
+#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Canlı Tvlər və YouTube", Show Tv
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Show Max TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Show Max Tv
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Canlı Tvlər və YouTube", Kanal D 
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="NOWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NOW_logo_%28Turkey%29.svg/512px-NOW_logo_%28Turkey%29.svg.png" group-title="Canlı Tvlər və YouTube", Now TV
+#EXTINF:-1 tvg-id="NOWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NOW_logo_%28Turkey%29.svg/512px-NOW_logo_%28Turkey%29.svg.png" group-title="Canlı Tvlər və YouTube", Now Tv
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Canlı Tvlər və YouTube", Kanal 7 
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -123,7 +123,7 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Tabii" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Canlı Tvlər və YouTube", Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Canlı Tvlər və YouTube", TV 4 
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Canlı Tvlər və YouTube", Tv 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="Canlı Tvlər və YouTube", Trt Türk 
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -149,86 +149,83 @@ https://www.youtube.com/embed/live_stream?channel=UCrFf5dtMe6M1XJHqbKJ4X6Q
 https://www.youtube.com/embed/live_stream?channel=UCCfTktnzWK__FUN4gj0zIpA
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="Canlı Tvlər və YouTube", Trt Çocuk Diyanet 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal Plus TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Kanal Plus Tv
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", TV 41  
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Tv 41  
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Dizi TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Sinema 1 
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Canlı Tvlər və YouTube", Nr1 Dance TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Canlı Tvlər və YouTube", Nr1 Fashion One TV
+#EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Canlı Tvlər və YouTube", Nr1 Fashion One Tv
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fashion TV Paris Original
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fashion Tv Paris Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fashion TV Secrets
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 tvg-name="Kanal15" group-title="Canlı Tvlər və YouTube",Kanal 15 TV
+#EXTINF:-1 tvg-name="Kanal15" group-title="Canlı Tvlər və YouTube",Kanal 15 Tv
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Canlı Tvlər və YouTube",Çiftçi TV
+#EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Canlı Tvlər və YouTube",Çiftçi Tv
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiyarTV.tr@SD" group-title="Canlı Tvlər və YouTube",İkra TV
+#EXTINF:-1 tvg-id="DiyarTV.tr@SD" group-title="Canlı Tvlər və YouTube",İkra Tv
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr@SD" group-title="Canlı Tvlər və YouTube",Halk TV
+#EXTINF:-1 tvg-id="HalkTV.tr@SD" group-title="Canlı Tvlər və YouTube",Halk Tv
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="HunatTV.tr@SD" group-title="Canlı Tvlər və YouTube",Hunat TV
+#EXTINF:-1 tvg-id="HunatTV.tr@SD" group-title="Canlı Tvlər və YouTube",Hunat Tv
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal26.tr@SD" group-title="Canlı Tvlər və YouTube",Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr@SD" group-title="Canlı Tvlər və YouTube",Kanal V
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
-#EXTINF:-1 tvg-id="MeltemTV.tr@SD" group-title="Canlı Tvlər və YouTube",Meltem TV
+#EXTINF:-1 tvg-id="MeltemTV.tr@SD" group-title="Canlı Tvlər və YouTube",Meltem Tv
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr@SD" group-title="Canlı Tvlər və YouTube",Number 1 Damar TV
+#EXTINF:-1 tvg-id="Number1Damar.tr@SD" group-title="Canlı Tvlər və YouTube",Number 1 Damar Tv
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk TV
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk Tv
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk Slow TV
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk Slow Tv
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk Taptaze TV
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk Taptaze Tv
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Canlı Tvlər və YouTube",Satranç TV
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Canlı Tvlər və YouTube",Satranç Tv
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="TBMMTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tbmm TV
+#EXTINF:-1 tvg-id="TBMMTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tbmm Tv
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-id="TempoTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tempo TV
+#EXTINF:-1 tvg-id="TempoTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tempo Tv
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr@SD" group-title="Canlı Tvlər və YouTube",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tjk TV
+#EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tjk Tv
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="TRTEBA.tr@SD" group-title="Canlı Tvlər və YouTube",Trt Eba TV
+#EXTINF:-1 tvg-id="TRTEBA.tr@SD" group-title="Canlı Tvlər və YouTube",Trt Eba Tv
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" group-title="Canlı Tvlər və YouTube",Trt Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Anadolu Net TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Anadolu Net Tv
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Erzurum Web TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Erzurum Web Tv
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Es TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Es Tv
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fb TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Fb Tv
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Konya Olay TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Konya Olay Tv
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Olay Türk Kayseri TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Olay Türk Kayseri Tv
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ton TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ton Tv
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Urfa Natik TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Urfa Natik Tv
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tyt Türk TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tyt Türk Tv
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tgrt Belgesel TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tgrt Belgesel Tv
 https://www.youtube.com/embed/live_stream?channel=UCkQV7uH1Otv47CZz6tD3jGQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Serçem TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Serçem Tv
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Semerkand TV
-
-
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Şaban Tv
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Beğen Tv
@@ -237,11 +234,11 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",CNBC-E
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cnbce
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ülke TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",TGRT HABER
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tgrt Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ezel 7/24
 https://www.youtube.com/embed/live_stream?channel=UC82UK_P4DuDZ42Q0SHcey1w
@@ -329,7 +326,7 @@ https://www.youtube.com/embed/live_stream?channel=UCJbc3MgMFKqsCwTdrjWvVzQ
 https://www.youtube.com/embed/live_stream?channel=UCZLOnq-F5zhTWNUDjcEYByw
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Neşeli Dünyam 7/24
 https://www.youtube.com/embed/live_stream?channel=UC7IVTywZ2JJ87nLaYmFT9iQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hz.Yusuf 7/24
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Hz Yusuf 7/24
 https://www.youtube.com/embed/live_stream?channel=UCOpKuda5Ld_oc0Gdr31knmA
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Behzat Ç 7/24
 https://www.youtube.com/embed/live_stream?channel=UCH3WnhFSx9r850HJRRs16lQ
@@ -370,7 +367,7 @@ https://www.youtube.com/live/OMz7Pdp8t48
 
                                                                                       XARİCİ KANALLAR
 #EXTM3U
-#EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Canlı Tvlər və YouTube",Zarok TV
+#EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Canlı Tvlər və YouTube",Zarok Tv
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -382,141 +379,141 @@ https://www.youtube.com/embed/live_stream?channel=UCRv76wLBC73jiP7LX4C3l8Q
 https://www.youtube.com/embed/live_stream?channel=UCNSnSemXKDc9UEZ7m31wY9Q
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Top Rank Boxing 7/24
 https://www.youtube.com/embed/live_stream?channel=UCbzRzJNHx7ZLlJML9BjZQVQ
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Mr. Bean Live TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Mr. Bean Live Tv
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Canlı Tvlər və YouTube",Auto Plus TV
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Canlı Tvlər və YouTube",Auto Plus Tv
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Doctor.ru@SD" group-title="Canlı Tvlər və YouTube",Doctor TV
+#EXTINF:-1 tvg-id="Doctor.ru@SD" group-title="Canlı Tvlər və YouTube",Doctor Tv
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FastFunBox.ru@SD" group-title="Canlı Tvlər və YouTube",Fast & FunBox TV
+#EXTINF:-1 tvg-id="FastFunBox.ru@SD" group-title="Canlı Tvlər və YouTube",Fast & FunBox Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://iptv.prosto.tv/ch120/index.m3u8
-#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" group-title="Canlı Tvlər və YouTube",Glazami Turista TV
+#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" group-title="Canlı Tvlər və YouTube",Glazami Turista Tv
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="Canlı Tvlər və YouTube",Gulli Girl TV
+#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="Canlı Tvlər və YouTube",Gulli Girl Tv
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Canlı Tvlər və YouTube",İndiyskoye TV
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Canlı Tvlər və YouTube",İndiyskoye Tv
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Canlı Tvlər və YouTube",İnsayt TV
+#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Canlı Tvlər və YouTube",İnsayt Tv
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Canlı Tvlər və YouTube",Kino Hit TV
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Canlı Tvlər və YouTube",Kino Hit Tv
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Canlı Tvlər və YouTube",N TV
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Canlı Tvlər və YouTube",N Tv
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Canlı Tvlər və YouTube",Rybolov TV
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Canlı Tvlər və YouTube",Rybolov Tv
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Canlı Tvlər və YouTube",Rybalka TV
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Canlı Tvlər və YouTube",Rybalka Tv
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Canlı Tvlər və YouTube",Retro TV
+#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Canlı Tvlər və YouTube",Retro Tv
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
-#EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="Canlı Tvlər və YouTube",Ru TV
+#EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="Canlı Tvlər və YouTube",Ru Tv
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Canlı Tvlər və YouTube",Russia 1 TV
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Canlı Tvlər və YouTube",Russia 1 Tv
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Canlı Tvlər və YouTube",Russia 24 TV
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Canlı Tvlər və YouTube",Russia 24 Tv
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Canlı Tvlər və YouTube",Soçi TV
+#EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Canlı Tvlər və YouTube",Soçi Tv
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="T24.ru@SD" group-title="Canlı Tvlər və YouTube",T-24 TV
+#EXTINF:-1 tvg-id="T24.ru@SD" group-title="Canlı Tvlər və YouTube",T-24 Tv
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Canlı Tvlər və YouTube",Telecafe TV
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Canlı Tvlər və YouTube",Telecafe Tv
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Canlı Tvlər və YouTube",Zagorodnaya Zhizn TV
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Canlı Tvlər və YouTube",Zagorodnaya Zhizn Tv
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Canlı Tvlər və YouTube",Zoopark TV
+#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Canlı Tvlər və YouTube",Zoopark Tv
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Canlı Tvlər və YouTube",Аyst ТV
+#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Canlı Tvlər və YouTube",Аyst Тv
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Canlı Tvlər və YouTube",Аris-24 TV
+#EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Canlı Tvlər və YouTube",Аris-24 Tv
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="Canlı Tvlər və YouTube",Yevraviziya TV
+#EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="Canlı Tvlər və YouTube",Yevraviziya Tv
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Canlı Tvlər və YouTube",Yenisey TV
+#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Canlı Tvlər və YouTube",Yenisey Tv
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel16.ru@SD" group-title="Canlı Tvlər və YouTube",К-16 TV
+#EXTINF:-1 tvg-id="Channel16.ru@SD" group-title="Canlı Tvlər və YouTube",К-16 Tv
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Canlı Tvlər və YouTube",Krım-24 TV
+#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Canlı Tvlər və YouTube",Krım-24 Tv
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="Canlı Tvlər və YouTube",Mir TV
+#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="Canlı Tvlər və YouTube",Mir Tv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@Plus7" group-title="Canlı Tvlər və YouTube",Mir +7 TV
+#EXTINF:-1 tvg-id="Mir.ru@Plus7" group-title="Canlı Tvlər və YouTube",Mir +7 Tv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" group-title="Canlı Tvlər və YouTube",Мtb TV
+#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" group-title="Canlı Tvlər və YouTube",Мtb Tv
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NVKSakha.ru@SD" group-title="Canlı Tvlər və YouTube",Нbk TV
+#EXTINF:-1 tvg-id="NVKSakha.ru@SD" group-title="Canlı Tvlər və YouTube",Нbk Tv
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="Canlı Tvlər və YouTube",Samara TV
+#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="Canlı Tvlər və YouTube",Samara Tv
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD" group-title="Canlı Tvlər və YouTube",Sever TV
+#EXTINF:-1 tvg-id="Sever.ru@SD" group-title="Canlı Tvlər və YouTube",Sever Tv
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="Canlı Tvlər və YouTube",Soçi TV 2
+#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="Canlı Tvlər və YouTube",Soçi 2 Tv
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="Canlı Tvlər və YouTube",Tamr TV
+#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="Canlı Tvlər və YouTube",Tamr Tv
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Canlı Tvlər və YouTube",Çentr TV
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Canlı Tvlər və YouTube",Çentr Tv
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Canlı Tvlər və YouTube",Tolk TV
+#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Canlı Tvlər və YouTube",Tolk Tv
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Canlı Tvlər və YouTube",Kinopremyera TV
+#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Canlı Tvlər və YouTube",Kinopremyera Tv
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="Canlı Tvlər və YouTube",Mma TV
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="Canlı Tvlər və YouTube",Mma Tv
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="Canlı Tvlər və YouTube",Cinema TV
+#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="Canlı Tvlər və YouTube",Cinema Tv
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="Canlı Tvlər və YouTube",Viju Nature TV
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="Canlı Tvlər və YouTube",Viju Nature Tv
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="Canlı Tvlər və YouTube",Da Vinci TV
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="Canlı Tvlər və YouTube",Da Vinci Tv
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Canlı Tvlər və YouTube",Karusel TV
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Canlı Tvlər və YouTube",Karusel Tv
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Canlı Tvlər və YouTube",Moskva 24 TV
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Canlı Tvlər və YouTube",Moskva 24 Tv
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Canlı Tvlər və YouTube",Star Cinema TV
+#EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Canlı Tvlər və YouTube",Star Cinema Tv
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KarapuzTV.ru@SD" group-title="Canlı Tvlər və YouTube",Karapuz TV
+#EXTINF:-1 tvg-id="KarapuzTV.ru@SD" group-title="Canlı Tvlər və YouTube",Karapuz Tv
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Canlı Tvlər və YouTube",Solnce TV
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Canlı Tvlər və YouTube",Solnce Tv
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",1+1 TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",1+1 Tv
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",2M TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",2M Tv
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",3 Cat TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",3 Cat Tv
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ac Hollywood TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ac Hollywood Tv
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Afroland Afro Kiddos TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Afroland Afro Kiddos Tv
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16484
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",AfroLand Romance TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",AfroLand Romance Tv
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Agenda Minera TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Agenda Minera Tv
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Mr. Bean Anime TV 
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Mr. Bean Anime Tv
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Barbie & Friends Mutfilm TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Barbie & Friends Mutfilm Tv
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cine Sony TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Cine Sony Tv
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ds TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ds Tv
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp France TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp France Tv
 https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp Spain TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp Spain Tv
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kosmos TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kosmos Tv
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travel Network TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travel Network Tv
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Persiana Fight TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Persiana Fight Tv
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Wwe Superstar TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Wwe Superstar Tv
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Redbull TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Redbull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp Tv
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 
