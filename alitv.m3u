@@ -89,6 +89,26 @@ https://www.youtube.com/embed/live_stream?channel=UCJpwai-h1JtA1Z-Zmn9qVsA
 
 
 
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Trt Genç Tv
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Deniz Sinema
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Kanal D 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Meclis Tv
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+
+
+
+
                                                                                        TÜRK KANALLARI
 #EXTM3U
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", A2 TV
