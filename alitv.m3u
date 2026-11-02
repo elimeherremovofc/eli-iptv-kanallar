@@ -113,15 +113,15 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="Canlı Tvlər və YouTube", Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Canlı Tvlər və YouTube", TV 8 
+#EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Canlı Tvlər və YouTube", Tv 8 
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", TV 8.5
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Tv 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Canlı Tvlər və YouTube", Teve 2 
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Canlı Tvlər və YouTube", Trt 1 
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Tabii" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Canlı Tvlər və YouTube", Tabii TV
+#EXTINF:-1 tvg-name="Tabii" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Canlı Tvlər və YouTube", Tabii Tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Canlı Tvlər və YouTube", Tv 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
@@ -129,11 +129,11 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="Canlı Tvlər və YouTube", Trt Avaz  
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" group-title="Canlı Tvlər və YouTube", Habertürk TV  
+#EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" group-title="Canlı Tvlər və YouTube", Habertürk Tv 
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="Canlı Tvlər və YouTube", 360 TV 
+#EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="Canlı Tvlər və YouTube", Tv 360 
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Canlı Tvlər və YouTube", Beyaz TV 
+#EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Canlı Tvlər və YouTube", Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Cartoon Network
 https://www.youtube.com/live/JyMeD9wfMZQ
@@ -145,7 +145,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Trt Çocuk YouTube 7/24
 https://www.youtube.com/embed/live_stream?channel=UCrFf5dtMe6M1XJHqbKJ4X6Q
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Diyanet Çocuk TV
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Diyanet Çocuk Tv
 https://www.youtube.com/embed/live_stream?channel=UCCfTktnzWK__FUN4gj0zIpA
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="Canlı Tvlər və YouTube", Trt Çocuk Diyanet 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
@@ -157,7 +157,7 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Sinema 1 
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Canlı Tvlər və YouTube", Nr1 Dance TV
+#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Canlı Tvlər və YouTube", Nr1 Dance Tv
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Canlı Tvlər və YouTube", Nr1 Fashion One Tv
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
