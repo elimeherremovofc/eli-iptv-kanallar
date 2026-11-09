@@ -46,7 +46,7 @@ https://operativmm.az/tvs/arb24/stream/stream.m3u8
 
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Naxçıvan Tv
 #EXTVLCOPT:http-referrer=https://yoda.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
 https://str.yodacdn.net/ntv/index.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Biznes Tv
 https://www.youtube.com/embed/live_stream?channel=UCWSj5oxUTsPegZ7Pd36_cQg
