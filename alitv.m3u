@@ -155,8 +155,6 @@ https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube", Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube", Sinema 1 
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Canlı Tvlər və YouTube", Nr1 Dance Tv
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Canlı Tvlər və YouTube", Nr1 Fashion One Tv
@@ -190,8 +188,6 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Canlı Tvlər və YouTube",Power Türk Taptaze Tv
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Canlı Tvlər və YouTube",Satranç Tv
-http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="TBMMTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tbmm Tv
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" group-title="Canlı Tvlər və YouTube",Tempo Tv
@@ -216,8 +212,6 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Olay Türk Kayseri Tv
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube",Ton Tv
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Urfa Natik Tv
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tyt Türk Tv
@@ -240,8 +234,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Tgrt Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AnadoluNetTV.tr@SD",Anadolu Net Tv
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="ArasTV.tr@SD",Aras Tv
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="ATVAlanya.tr@SD",Atv Alanya
@@ -274,12 +266,10 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Kanal32.tr@SD",Kanal 32
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Kanal58.tr@SD",KANAL 58
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Kanal58.tr@SD",Kanal 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="KanalFirat.tr@SD",Kanal Fırat
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="KayTV.tr@SD",Kay Tv
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="KentTurk.tr@SD",Kent Türk Tv
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="LalegulTV.tr@SD",Lalegül Tv
