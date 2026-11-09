@@ -557,8 +557,145 @@ https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="Canlı Tvlər və YouTube",Travelxp Tv
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="CNBCArabiya.ae@SD",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (576p)
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="WatarRadio.ae@SD",Watar Radio (1080p)
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AMC.af@SD",AMC (1080p)
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="ntv.al@SD",ntv (720p)
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="TropojaTelevizion.al@SD",Tropoja Televizion (1080p)
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Canal5TVChepes.ar@SD",Canal 5 TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Canal7Neuquen.ar@SD",Canal 7 Neuquén (1080p)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="XtremaAccion.ar@SD",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="XtremaCineClasico.ar@SD",Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="RedBullTV.at@UK",Red Bull TV UK (1080p)
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="RedBullTV.at@US",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="",Action Hollywood Movies (1080p)
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AngerManagementChannel.us@SD",Anger Management Channel (1080p) *
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="FailArmy.us@US",Failarmy International (720p)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="HauntTV.ca@SD",Haunt TV (1080p)
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="INFAST.nl@SD",INFAST (1080p)
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="",Inside Outside (720p)
+https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="INWILD.nl@SD",InWild (720p)
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="ToonGoggles.us@SD",ToonGoggles (720p)
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Carac3.ch@SD",Carac 3 (1080p)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Carac4.ch@SD",Carac 4 (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Carac5.ch@SD",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="B4UMovies.in@India",B4U Movies (576p)
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Travelxp.in@4KCzechia",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Travelxp.in@Czechia",Travelxp Czechia
+http://88.212.7.14/live/travel_xp/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Travelxp.in@Russia",Travelxp Russia (1080p)
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AfarinTV.iq@SD",Afarin TV (720p) [Not 24/7]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AlIraqia.iq@SD",Al Iraqia (1080p)
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AlghadeerTV.iq@SD",Alghadeer TV (1080p)
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AVAFamily.ir@SD",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="iFilm2.ir@SD",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="iFilmArabic.ir@SD",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="iFilmEnglish.ir@SD",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="iFilmPersian.ir@SD",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="IRINN.ir@SD",IRINN (576p)
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="OXIRTV.ir@SD",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="PressTV.ir@SD",Press TV
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="RasoulallahTv.ir@HD",RasoulallahTv (1080p)
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="TBNNejatTV.ir@SD",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="YourTimeTV.ir@SD",YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="ArkoTV.ir@SD",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AVASeries.ir@SD",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="FX1.ir@SD",FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="FX2.ir@SD",FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="GoldStar.ir@SD",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="GrandCinema.tr@SD",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="MetaFilmTV.ir@SD",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="AltoAdigeTV.it@SD",Alto Adige TV (720p)
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Canale7.it@SD",Canale 7 (480p)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Canale7.it@SD",CANALE 7 (480p)
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="DMAX.it@SD",DMAX (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="Nove.it@SD",Nove (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="RealTime.it@HD",Real Time HD (720p)
+http://102.129.186.182:81/realtime/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="BBCEarth.uk@Hungary",BBC Earth Hungary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/bbce_hun/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="BBCFirst.uk@Turkiye",BBC First Turkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/bbc_first/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="ENTChannel.uk@HD",ENT Channel (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="FIFAPlusWomen.uk@English",FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="GemsTV.uk@SD",Gems TV (720p)
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="StarBharat.uk@SD",Star Bharat (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="StarPlus.uk@SD",StarPlus (576p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="CartoonNetworkCEE.uk@Germany",Cartoon Network CEE Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/109/index.m3u8
+#EXTINF:-1 group-title="Canlı Tvlər və YouTube" tvg-id="PortuguesaTelevision.ve@SD",PortuTV (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 
 
                                                                  Eli Meherremov Musiqiləri
@@ -2722,130 +2859,6 @@ https://ia600700.us.archive.org/18/items/uc-kagitci-turk-filmi-full-hd-kemal-sun
 
 
 
-
-
-#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD",CNBC Arabiya (1080p)
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-id="MBCPersia.ae@SD",MBC Persia (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD",Peace TV Chinese (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (576p)
-#EXTVLCOPT:http-referrer=https://spacetoon.com
-https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
-#EXTINF:-1 tvg-id="WatarRadio.ae@SD",Watar Radio (1080p)
-https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.af@SD",AMC (1080p)
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ntv.al@SD",ntv (720p)
-https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
-#EXTINF:-1 tvg-id="TropojaTelevizion.al@SD",Tropoja Televizion (1080p)
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5TVChepes.ar@SD",Canal 5 TV Chepes
-https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-#EXTINF:-1 tvg-id="Canal7Neuquen.ar@SD",Canal 7 Neuquén (1080p)
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar@SD",Xtrema Accion
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCineClasico.ar@SD",Xtrema Cine Clasico
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@UK",Red Bull TV UK (1080p)
-https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@US",Red Bull TV US (1080p)
-https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",Action Hollywood Movies (1080p)
-https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD",Anger Management Channel (1080p) *
-https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US",Failarmy International (720p)
-https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HauntTV.ca@SD",Haunt TV (1080p)
-https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="INFAST.nl@SD",INFAST (1080p)
-https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="",Inside Outside (720p)
-https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="INWILD.nl@SD",InWild (720p)
-https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us@SD",ToonGoggles (720p)
-https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac3.ch@SD",Carac 3 (1080p)
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac4.ch@SD",Carac 4 (1080p)
-https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac5.ch@SD",Carac 5
-https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (576p)
-https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@4KCzechia",Travelxp 4K Czechia
-http://88.212.7.14/live/travel_xp_4k/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@Czechia",Travelxp Czechia
-http://88.212.7.14/live/travel_xp/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@Russia",Travelxp Russia (1080p)
-http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 tvg-id="AfarinTV.iq@SD",Afarin TV (720p) [Not 24/7]
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIraqia.iq@SD",Al Iraqia (1080p)
-https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
-#EXTINF:-1 tvg-id="AlghadeerTV.iq@SD",Alghadeer TV (1080p)
-https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
-#EXTINF:-1 tvg-id="AVAFamily.ir@SD",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="iFilm2.ir@SD",iFilm 2
-https://live.presstv.co.uk/hls/ifilm2.m3u8
-#EXTINF:-1 tvg-id="iFilmArabic.ir@SD",iFilm Arabic
-https://live.presstv.co.uk/hls/ifilmar.m3u8
-#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD",iFilm English
-https://live.presstv.co.uk/hls/ifilmen.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian
-https://live.presstv.co.uk/hls/ifilmfa.m3u8
-#EXTINF:-1 tvg-id="IRINN.ir@SD",IRINN (576p)
-http://185.9.2.18/chid_926/index.m3u8
-#EXTINF:-1 tvg-id="OXIRTV.ir@SD",OXIR TV
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir@SD",Press TV
-https://live.presstv.co.uk/hls/presstv.m3u8
-#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD",RasoulallahTv (1080p)
-https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD",TBN Nejat TV
-https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="YourTimeTV.ir@SD",YourTime TV
-https://live.yourtime.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ArkoTV.ir@SD",Arko TV
-https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVASeries.ir@SD",AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX1.ir@SD",FX TV 1
-https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX2.ir@SD",FX TV 2
-https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GoldStar.ir@SD",Gold Star
-https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GrandCinema.tr@SD",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD",Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AltoAdigeTV.it@SD",Alto Adige TV (720p)
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale7.it@SD",Canale 7 (480p)
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale7.it@SD",CANALE 7 (480p)
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="DMAX.it@SD",DMAX (1080p)
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="Nove.it@SD",Nove (1080p)
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="RealTime.it@HD",Real Time HD (720p)
-http://102.129.186.182:81/realtime/index.m3u8
-
-
-
-türkkk
 #EXTINF:-1 tvg-id="AltasTV.tr@SD",Altas TV (1080p)
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD",Anadolu Net TV (1080p)
@@ -2936,77 +2949,25 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 tvg-id="SercemTV.tr@HD",Sercem TV (1080p)
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-
-
 #EXTINF:-1 tvg-id="SunRTV.tr@SD",Sun RTV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="SunRTV.tr@SD",Sun RTV (720p) [Not 24/7]
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="TGRTHaber.tr@SD",TGRT Haber (720p)
 https://canli.tgrthaber.com/tgrt.m3u8
-
-
 #EXTINF:-1 tvg-id="TGRTHaber.tr@SD",TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr@SD",TRT 2 (1440p) [Geo-blocked]
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTGenc.tr@SD",TRT Genc (1440p) [Geo-blocked]
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="VavTV.tr@SD",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNNTurk.tr@SD",CNN Turk (1080p)
 http://85.117.61.84/cnnturk/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="BBCEarth.uk@Hungary",BBC Earth Hungary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.7.14/live/bbce_hun/index.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye",BBC First Turkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.7.14/live/bbc_first/index.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ENTChannel.uk@HD",ENT Channel (720p)
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ United States (720p)
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English",FIFA+ Women (720p)
-https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="GemsTV.uk@SD",Gems TV (720p)
-https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English",Mr Bean Live Action (1080p)
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="StarBharat.uk@SD",Star Bharat (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
-
-
-
-#EXTINF:-1 tvg-id="StarPlus.uk@SD",StarPlus (576p)
-https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Germany",Cartoon Network CEE Germany
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://94.130.48.67:8042/stream/109/index.m3u8
-#EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD",PortuTV (480p) [Not 24/7]
-https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 
